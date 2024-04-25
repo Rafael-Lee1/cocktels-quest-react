@@ -1,2 +1,15 @@
-# cocktail-quest-react
-Cocktails Quest: um aplicativo web em React para explorar e descobrir receitas de coquetéis. Interface intuitiva, busca por ingredientes e favoritos para acesso rápido.
+#### React Router Fix
+
+(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+
+#### CRA Fix
+
+```
+
+"build": "CI= react-scripts build",
+
+```
+
+```sh
+npm install react-router-dom@6
+```
